@@ -1,3 +1,7 @@
+@import '../../node_modules/antd/dist/antd.css'; /* ～ 意味着从node_modules里面的antd; @ 是你在css里面import 在css里面importcss就要加@*/
+@import 'Main.css';
+@import 'Register.css';
+@import 'Login.css';
 .App {
   text-align: center;
 }

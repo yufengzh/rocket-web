@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
-import logo from './logo.svg';
-import './App.css';
+import logo from '../assets/iamges/logo.svg';
+//import './App.css';
 
 export class Header extends Component { // put this component in a separate file
     render() {

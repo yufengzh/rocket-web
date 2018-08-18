@@ -1,0 +1,12 @@
+.register-form {
+    width: 600px;
+    margin-left:auto;
+    margin-right: auto;
+
+    /*
+        how to use Flex layout?
+         Setting:
+         display: flex
+         justify-content: center;
+    */
+}
