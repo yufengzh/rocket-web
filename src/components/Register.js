@@ -31,7 +31,7 @@ class RegistrationForm extends React.Component {
                 },(response) => {
                     message.error(response.responseText);
                 }).catch((e) => {
-                    console.log(e);
+                    console.log('catch ' + e);
                 });
 
             }
